@@ -85,32 +85,11 @@ Ever had a critical workflow fail at 3 AM? Need to check execution statistics du
 ## 📸 Screenshots
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="Screenshots/iPhone/01-main-dashboard.png" width="200" alt="Main Dashboard">
-        <br><em>Clean Navigation</em>
-      </td>
-      <td align="center">
-        <img src="Screenshots/iPhone/03-workflow-list.png" width="200" alt="Workflow Management">
-        <br><em>Workflow Control</em>
-      </td>
-      <td align="center">
-        <img src="Screenshots/iPhone/04-execution-monitoring.png" width="200" alt="Execution Monitoring">
-        <br><em>Live Monitoring</em>
-      </td>
-      <td align="center">
-        <img src="Screenshots/iPhone/05-statistics-dashboard.png" width="200" alt="Statistics">
-        <br><em>Analytics Dashboard</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### iPad Experience
-<div align="center">
-  <img src="Screenshots/iPad/ipad-01-dashboard-splitview.png" width="600" alt="iPad Dashboard">
-  <br><em>Optimized for iPad productivity</em>
+  <img src="02.png" width="200" alt="Screenshot">
+  <img src="04.png" width="200" alt="Screenshot">
+  <img src="06.png" width="200" alt="Screenshot">
+  <img src="08.png" width="200" alt="Screenshot">
+  <img src="IMG_3015.PNG" width="200" alt="Screenshot">
 </div>
 
 ## 🎯 Who Is This For?
