@@ -60,13 +60,12 @@ Ever had a critical workflow fail at 3 AM? Need to check execution statistics du
 - 🌓 Dark/Light mode support
 - 📲 iPad-optimized layouts
 - ⚡ iOS Shortcuts integration
-- 🔔 Push notifications (coming soon)
+- 🔔 Push notifications for workflow failures
 
 ### Premium Features
-- 🌍 Global Variables Management (7-day free trial)
-- ☁️ Cloud synchronization for teams
 - 📊 Advanced analytics
 - 🔐 Enhanced security features
+- 🔒 All data stays locally on your device
 
 ## 🎯 Real-World Use Cases
 
@@ -85,11 +84,11 @@ Ever had a critical workflow fail at 3 AM? Need to check execution statistics du
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="02.png" width="200" alt="Screenshot">
-  <img src="04.png" width="200" alt="Screenshot">
-  <img src="06.png" width="200" alt="Screenshot">
-  <img src="08.png" width="200" alt="Screenshot">
-  <img src="IMG_3015.PNG" width="200" alt="Screenshot">
+  <img src="Screenshots/iPhone/02.png" width="200" alt="Screenshot">
+  <img src="Screenshots/iPhone/04.png" width="200" alt="Screenshot">
+  <img src="Screenshots/iPhone/06.png" width="200" alt="Screenshot">
+  <img src="Screenshots/iPhone/08.png" width="200" alt="Screenshot">
+  <img src="Screenshots/iPhone/IMG_3015.PNG" width="200" alt="Screenshot">
 </div>
 
 ## 🎯 Who Is This For?
@@ -122,7 +121,7 @@ Ever had a critical workflow fail at 3 AM? Need to check execution statistics du
 - API Key or Basic Auth credentials
 
 ### Installation
-1. Download from the [App Store](https://apps.apple.com) (link coming soon)
+1. Download from the [App Store](https://apps.apple.com/de/app/neightn-remote/id6744863722)
 2. Open neightn_remote
 3. Add your n8n server:
    - Enter server URL
@@ -178,7 +177,6 @@ Ever had a critical workflow fail at 3 AM? Need to check execution statistics du
 ## 🗺️ Roadmap
 
 ### Currently Working On
-- 🔔 Push notifications for workflow failures
 - 📊 Enhanced widget customization
 - 🔐 Additional security audit features
 - ♿ Accessibility improvements
@@ -213,5 +211,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <br>
   <em>Transform your iPhone into an n8n command center</em>
   <br><br>
-  <a href="https://apps.apple.com">Download on the App Store</a>
+  <a href="https://apps.apple.com/de/app/neightn-remote/id6744863722">Download on the App Store</a>
 </div>
